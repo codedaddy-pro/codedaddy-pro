@@ -2,7 +2,7 @@
 <img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UCi9gcGVcTMSp6GqxfJjQiyA?style=social">
 <p>Welcome to my page! </br> I'm Code Daddy, Fullstack developer. </p>
 <h3>Things I code with</h3>
-
+<div align="left">
 <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
 <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
 <img alt="github" src="https://img.shields.io/badge/-github-181717?style=flat-square&logo=github&logoColor=white" />
@@ -30,4 +30,4 @@
   
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
-
+</div>
