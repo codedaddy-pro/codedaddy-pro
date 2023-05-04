@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<div align="center">
 <img src="https://img.shields.io/badge/license-MIT-blue" height="20" alt="license-MIT-blue">
 <img src="https://img.shields.io/badge/language-python-blue" height="20" alt="language-python">
 <br>
@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Ubuntu->=18.04-orange" height="20" alt="Ubuntu->=18.04-orange">
 <img src="https://img.shields.io/badge/python->=3.8.x-blue" height="20" alt="python->=3.8.x-blue"><br>
 <img src="https://img.shields.io/badge/mosquitto->=1.6.10-brightgreen" height="20" alt="mosquitto->=1.6.10-brightgreen"> <img src="https://img.shields.io/badge/paho--mqtt->=1.6.1-brightgreen" height="20" alt="paho--mqtt->=1.6.1-brightgreen">
+</div>
 ![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=codedaddy-pro&show_icons=true&theme=radical)
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
