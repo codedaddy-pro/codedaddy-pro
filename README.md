@@ -30,4 +30,8 @@
   
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
+  
+# Blog posts
+<!-- BLOG-POST-LIST:START \-->
+<!-- BLOG-POST-LIST:END \-->
 </div>
