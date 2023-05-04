@@ -15,6 +15,7 @@
 <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 <img alt="python" src="https://img.shields.io/badge/-python-3776AB?style=flat-square&logo=Node.js&logoColor=white" />
 <img alt="Django" src="https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=Node.js&logoColor=white" />
+<img alt="lua" src="https://img.shields.io/badge/-lua-2C2D72?style=flat-square&logo=lua&logoColor=white" />
 <img alt="css3" src="https://img.shields.io/badge/-css3-1572B6?style=flat-square&logo=css3&logoColor=white" />
 <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white" />
 <img alt="PHP" src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=PHP&logoColor=white" />
