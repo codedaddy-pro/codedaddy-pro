@@ -30,7 +30,7 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=codedaddy-pro&show_icons=true&theme=radical)
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-390%20hrs%2017%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-396%20hrs%2010%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -73,19 +73,19 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-Lua                      19 hrs 3 mins       █████████████████████████   98.66 % 
-Other                    15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.34 % 
+Lua                      17 hrs 6 mins       █████████████████████████   98.51 % 
+Other                    15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.49 % 
 
 🔥 Editors: 
-VS Code                  19 hrs 18 mins      █████████████████████████   100.00 % 
+VS Code                  17 hrs 22 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-game                     10 hrs 47 mins      ██████████████░░░░░░░░░░░   55.86 % 
-chess                    8 hrs 30 mins       ███████████░░░░░░░░░░░░░░   44.06 % 
-game-new                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+game                     10 hrs 43 mins      ███████████████░░░░░░░░░░   61.77 % 
+chess                    6 hrs 37 mins       ██████████░░░░░░░░░░░░░░░   38.14 % 
+game-new                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 
 💻 Operating System: 
-Windows                  19 hrs 18 mins      █████████████████████████   100.00 % 
+Windows                  17 hrs 22 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -102,7 +102,7 @@ CSS                      1 repo              ████████░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/codedaddy-pro/codedaddy-pro/main/assets/bar_graph.png)
 
 
- Last Updated on 01/11/2023 01:13:18 UTC
+ Last Updated on 02/11/2023 01:08:49 UTC
 <!--END_SECTION:waka-->
   
 # Blog posts
