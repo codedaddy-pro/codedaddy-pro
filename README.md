@@ -73,17 +73,16 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-Lua                      1 hr 38 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 38 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-chess                    57 mins             ███████████████░░░░░░░░░░   58.83 % 
-game                     40 mins             ██████████░░░░░░░░░░░░░░░   41.17 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  1 hr 38 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -100,7 +99,7 @@ CSS                      1 repo              ████████░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/codedaddy-pro/codedaddy-pro/main/assets/bar_graph.png)
 
 
- Last Updated on 09/11/2023 01:10:31 UTC
+ Last Updated on 10/11/2023 01:09:57 UTC
 <!--END_SECTION:waka-->
   
 # Blog posts
