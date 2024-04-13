@@ -30,6 +30,8 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=codedaddy-pro&show_icons=true&theme=radical)
   
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-397%20hrs%2048%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
@@ -95,7 +97,7 @@ CSS                      1 repo              ████████░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/codedaddy-pro/codedaddy-pro/main/assets/bar_graph.png)
 
 
- Last Updated on 12/04/2024 01:09:57 UTC
+ Last Updated on 13/04/2024 00:57:44 UTC
 <!--END_SECTION:waka-->
   
 # Blog posts
