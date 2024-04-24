@@ -32,13 +32,11 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-397%20hrs%2048%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
- > 
-> 🏆 0 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -99,7 +97,7 @@ CSS                      1 repo              ████████░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/codedaddy-pro/codedaddy-pro/main/assets/bar_graph.png)
 
 
- Last Updated on 23/04/2024 01:11:09 UTC
+ Last Updated on 24/04/2024 01:11:40 UTC
 <!--END_SECTION:waka-->
   
 # Blog posts
