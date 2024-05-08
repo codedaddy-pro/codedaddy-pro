@@ -32,7 +32,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-397%20hrs%2048%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
@@ -99,7 +99,7 @@ CSS                      1 repo              ████████░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/codedaddy-pro/codedaddy-pro/main/assets/bar_graph.png)
 
 
- Last Updated on 07/05/2024 01:12:36 UTC
+ Last Updated on 08/05/2024 00:59:53 UTC
 <!--END_SECTION:waka-->
   
 # Blog posts
