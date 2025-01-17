@@ -38,8 +38,6 @@
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 2 Public Repositories 
@@ -99,7 +97,7 @@ CSS                      1 repo              ████████░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/codedaddy-pro/codedaddy-pro/main/assets/bar_graph.png)
 
 
- Last Updated on 16/01/2025 01:27:16 UTC
+ Last Updated on 17/01/2025 01:26:49 UTC
 <!--END_SECTION:waka-->
   
 # Blog posts
