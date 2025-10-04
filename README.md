@@ -30,6 +30,8 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=codedaddy-pro&show_icons=true&theme=radical)
   
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-397%20hrs%2048%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
@@ -44,6 +46,45 @@
  > 
 > 🔑 0 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+🌆 Daytime                33 commits          ████████████████████████░   94.29 % 
+🌃 Evening                2 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   05.71 % 
+🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   7 commits           █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
+Tuesday                  6 commits           ████░░░░░░░░░░░░░░░░░░░░░   17.14 % 
+Wednesday                1 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
+Thursday                 16 commits          ███████████░░░░░░░░░░░░░░   45.71 % 
+Friday                   5 commits           ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+Saturday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Sunday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Taipei
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -58,7 +99,7 @@ CSS                      1 repo              ████████░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/codedaddy-pro/codedaddy-pro/main/assets/bar_graph.png)
 
 
- Last Updated on 03/10/2025 01:41:50 UTC
+ Last Updated on 04/10/2025 01:38:32 UTC
 <!--END_SECTION:waka-->
   
 # Blog posts
